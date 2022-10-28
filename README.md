@@ -1,5 +1,5 @@
-# .: Cursos e projetos :.
+# .: Cursos :.
 
-Área destinada para teste de habilidade e conclusão de desafios.
+Répositorio de teste de habilidades e conclusão de cursos.
 
 [Digital Innovation One](https://www.dio.me/)
