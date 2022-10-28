@@ -27,4 +27,4 @@ Omit --global to set the identity only in this repository.
 ===========================================================
 
 
-Solução: [Como mostrado na video aula](https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/00c82124-1594-49e8-9f82-4d8c85aa5a48?back=/track/potencia-tech-powered-ifood-java-beginners&tab=undefined&moduleId=undefined) e como o proprio alerta informa. Foi apenas fazer a autenticação que o passo a passo deu certo.
+Solução: Como mostrado na video aula e como o proprio alerta informa. Foi apenas fazer a autenticação que o passo a passo deu certo.
