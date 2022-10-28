@@ -2,4 +2,4 @@
 
 Área destinada para teste de habilidade e conclusão de desafios.
 
-[Digital Innovation One] (https://www.dio.me/)
+[Digital Innovation One](https://www.dio.me/)
